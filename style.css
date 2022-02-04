@@ -1,0 +1,174 @@
+*
+{
+	padding: 0;
+	margin: 0;
+}
+nav
+{
+	position: fixed;
+	background-color: skyblue;
+	height: 70px;
+	width: 100%;
+	z-index: 1;
+
+}
+
+.logo
+{
+	font-size: 25px;
+	position: relative;
+	left: 5%;
+	color: white;
+	font-weight: bold;
+	line-height: 70px;
+}
+
+ul
+{
+	position: relative;
+	float: right;
+	margin-right: 20px;
+}
+
+ul li 
+{
+	display: inline-block;
+	line-height: 70px;
+	margin: 0 5px;
+}
+
+ul li a 
+{
+	text-decoration: none;
+	color: white;
+	font-size: 17px;
+}
+.main_img
+{
+	width: 50%;
+	height: 500px;
+	align-content: center;
+}
+
+.Section1
+{ padding-top: 70px;
+ }
+
+.welcome_img
+{
+	width: 100%;
+	height: 180px;
+}
+.container
+{
+	padding-top: 100px;
+
+}
+
+.tna 
+{
+	padding-top:80px;
+}
+.desc
+{
+	padding: 60px;
+
+}
+.desc2
+{
+	padding: 10px;
+
+}
+
+
+.inpttt
+{
+	display: inline-block;
+	width: 100px;
+	text-align: right;
+	padding-right: 10px;
+}
+
+.inpuut
+{
+	width: 30%;
+	height: 40px;
+	border-radius: 25px;
+	border: 1px solid black;
+}
+
+.adm_in
+{
+	padding-top: 10px;
+
+}
+
+.inpuuut
+{
+	width: 30%;
+	height: 120px;
+	border-radius: 25px;
+	border: 1px solid black;
+}
+
+#submit
+{
+	position: relative;
+	width: 15%;
+	left: 5%;
+}
+
+footer
+{
+	background-color: black;
+}
+
+.form_deg
+{
+	padding-top: 200px;
+}
+
+.label_deg
+{
+	display: inline-block;
+	color: black;
+	width: 100px;
+	text-align: right;
+	padding-top: 10px;
+	padding-bottom: 10px;
+
+}
+
+.form_login
+{
+	background-color: skyblue;
+	width: 400px;
+	padding-top: 70px;
+	padding-bottom: 70px;
+
+
+
+}
+
+.title_deg
+{
+	background-color: white;
+	color: black;
+	text-align: center;
+	font-weight: bold;
+	width: 1400px;
+	padding-top: 10px;
+	padding-bottom: 0px;
+	font-size: 20px;
+	height: 0%;
+
+
+}
+
+.bosy
+{
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: 100% 100%;
+
+}
